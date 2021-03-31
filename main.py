@@ -1,7 +1,4 @@
-# This is a sample Python script.
-
-# Press Shift+F10 to execute it or replace it with your code.
-# Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
+# поскольку я не смог разобраться в достаточном объеме в mongoDB, мое решение будет в Python
 from datetime import datetime
 
 import faker
